@@ -1,0 +1,15 @@
+--- !ruby/object:Blog::Post
+title: Neues zum Hundeschlaf
+created_at: 2017-02-11 17:57:04.479492051 +01:00
+updated_at: 2018-07-07 20:50:48.814296777 +02:00
+tags:
+- schlaf
+- wissenswertes
+- lernen
+image: !ruby/object:Blog::Image
+  dirname: neues-zum-hundeschlaf/image
+  basename: fe078f866c63a9ecb6c8814d9ab662025dcc0832.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/neues-zum-hundeschlaf.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/neues-zum-hundeschlaf"

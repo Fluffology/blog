@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Über die "Cockerwut"
+created_at: 2018-01-11 20:52:02.140794228 +01:00
+updated_at: 2018-07-07 20:51:56.530331526 +02:00
+tags:
+- springer spaniel
+- cocker spaniel
+- aggression
+- cockerwut
+image: !ruby/object:Blog::Image
+  dirname: ber-die-cockerwut/image
+  basename: 3dd5395c35e8fb07974f6e9d1ff57ea6442f2b6e.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/ber-die-cockerwut.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/ber-die-cockerwut"
+slug: ber-die-cockerwut

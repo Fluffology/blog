@@ -1,0 +1,15 @@
+--- !ruby/object:Blog::Post
+title: Tierschutzhunde von der besten Seite zeigen
+created_at: 2017-03-24 14:08:44.197966444 +01:00
+updated_at: 2018-07-07 20:50:48.654065632 +02:00
+tags:
+- tierschutz
+- vermittlung
+- wissenswertes
+image: !ruby/object:Blog::Image
+  dirname: tierschutzhunde-von-der-besten-seite-zeigen/image
+  basename: a3f8839446725185da4c8953a5f59253b969e058.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/tierschutzhunde-von-der-besten-seite-zeigen.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/tierschutzhunde-von-der-besten-seite-zeigen"

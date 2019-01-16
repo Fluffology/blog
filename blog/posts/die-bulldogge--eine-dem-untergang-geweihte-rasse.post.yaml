@@ -1,0 +1,18 @@
+--- !ruby/object:Blog::Post
+title: Die Bulldogge — eine dem Untergang geweihte Rasse?
+created_at: 2016-09-24 12:32:16.812115482 +02:00
+updated_at: 2018-07-07 20:50:48.749261663 +02:00
+tags:
+- gesundheit
+- wissenswertes
+- bulldogge
+- qualzucht
+- genetik
+- rassen
+image: !ruby/object:Blog::Image
+  dirname: die-bulldogge--eine-dem-untergang-geweihte-rasse/image
+  basename: c22f4136fb800d94e965590a7daa03c7e7911e96.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/die-bulldogge--eine-dem-untergang-geweihte-rasse.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/die-bulldogge--eine-dem-untergang-geweihte-rasse"

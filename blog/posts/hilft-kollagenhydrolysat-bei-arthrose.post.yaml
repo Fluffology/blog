@@ -1,0 +1,16 @@
+--- !ruby/object:Blog::Post
+title: Hilft Kollagenhydrolysat bei Arthrose?
+created_at: 2018-07-08 18:35:49.101221075 +02:00
+updated_at: 2018-07-08 19:11:51.458606659 +02:00
+tags:
+- gesundheit
+- kollagen
+- arthrose
+image: !ruby/object:Blog::Image
+  dirname: hilft-kollagenhydrolysat-bei-arthrose/image
+  basename: 4d64ce27f87cb7d81ab35e88399a8d4394f61239.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/hilft-kollagenhydrolysat-bei-arthrose.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/hilft-kollagenhydrolysat-bei-arthrose"
+content: 

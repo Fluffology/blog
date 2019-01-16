@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Was Hündchen nicht lernte - Sozialisierung bei erwachsenen Hunden
+created_at: 2018-08-08 19:50:48.010213799 +02:00
+updated_at: 2018-08-08 22:28:07.474631518 +02:00
+tags:
+- wissenswertes
+- sozialisation
+- sozialisierung
+- sozialverhalten
+image: !ruby/object:Blog::Image
+  dirname: was-hndchen-nicht-lernte---sozialisierung-bei-erwachsenen-hunden/image
+  basename: 4adcd6e69b45692bc014d993c3a2565d7f8415cf.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/was-hndchen-nicht-lernte---sozialisierung-bei-erwachsenen-hunden.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/was-hndchen-nicht-lernte---sozialisierung-bei-erwachsenen-hunden"
+slug: was-hndchen-nicht-lernte---sozialisierung-bei-erwachsenen-hunden

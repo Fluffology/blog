@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Impulskontrolle Teil 2—Weizen für die Willenskraft
+created_at: 2016-09-05 17:00:42.961805753 +02:00
+updated_at: 2018-07-07 20:50:48.635622516 +02:00
+tags:
+- impulskontrolle
+- ernährung
+- wissenswertes
+- getreide
+- kohlenhydrate
+image: !ruby/object:Blog::Image
+  dirname: impulskontrolle-teil-2weizen-fr-die-willenskraft/image
+  basename: 543b0ac783e3eb0483661968789fe55e88aba35b.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/impulskontrolle-teil-2weizen-fr-die-willenskraft.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/impulskontrolle-teil-2weizen-fr-die-willenskraft"

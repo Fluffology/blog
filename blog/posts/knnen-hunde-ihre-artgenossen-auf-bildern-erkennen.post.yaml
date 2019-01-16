@@ -1,0 +1,12 @@
+--- !ruby/object:Blog::Post
+title: Können Hunde ihre Artgenossen auf Bildern erkennen?
+created_at: 2016-07-11 15:06:00.854586842 +02:00
+updated_at: 2018-07-07 20:50:48.619632664 +02:00
+tags: []
+image: !ruby/object:Blog::Image
+  dirname: knnen-hunde-ihre-artgenossen-auf-bildern-erkennen/image
+  basename: e49630f7387e1dcfffd2467640d31824437c9859.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/knnen-hunde-ihre-artgenossen-auf-bildern-erkennen.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/knnen-hunde-ihre-artgenossen-auf-bildern-erkennen"

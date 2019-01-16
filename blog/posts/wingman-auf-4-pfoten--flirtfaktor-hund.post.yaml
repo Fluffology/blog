@@ -1,0 +1,12 @@
+--- !ruby/object:Blog::Post
+title: Wingman auf 4 Pfoten — Flirtfaktor Hund
+created_at: 2016-04-20 17:49:49.590454150 +02:00
+updated_at: 2018-07-07 20:50:48.792602823 +02:00
+tags: []
+image: !ruby/object:Blog::Image
+  dirname: wingman-auf-4-pfoten--flirtfaktor-hund/image
+  basename: da12c7318000fd4a677d726ae5c70daa10e8e94b.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/wingman-auf-4-pfoten--flirtfaktor-hund.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/wingman-auf-4-pfoten--flirtfaktor-hund"

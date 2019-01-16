@@ -1,0 +1,15 @@
+--- !ruby/object:Blog::Post
+title: Verhaltenstests für Tierheimhunde
+created_at: 2018-10-04 18:04:10.174939248 +02:00
+updated_at: 2018-10-04 18:36:30.016446271 +02:00
+tags:
+- tierheim
+- testen
+image: !ruby/object:Blog::Image
+  dirname: verhaltenstests-fr-tierheimhunde/image
+  basename: ec9c88261fc4dea6c5bf6965197262aa8866e089.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/verhaltenstests-fr-tierheimhunde.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/verhaltenstests-fr-tierheimhunde"
+slug: verhaltenstests-fr-tierheimhunde

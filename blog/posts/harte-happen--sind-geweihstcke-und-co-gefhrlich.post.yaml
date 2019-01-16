@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Harte Happen — sind Geweihstücke und Co. gefährlich?
+created_at: 2016-05-15 20:07:22.365347901 +02:00
+updated_at: 2018-07-07 20:50:48.634564255 +02:00
+tags:
+- gesundheit
+- ernährung
+- wissenswertes
+- zähne
+- kauartikel
+image: !ruby/object:Blog::Image
+  dirname: harte-happen--sind-geweihstcke-und-co-gefhrlich/image
+  basename: b6dba5550e4bb2572ccb14092adea23d56e5670f.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/harte-happen--sind-geweihstcke-und-co-gefhrlich.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/harte-happen--sind-geweihstcke-und-co-gefhrlich"

@@ -1,0 +1,15 @@
+--- !ruby/object:Blog::Post
+title: Kritisch beleuchtet — Adaptil, das Wohlfühlpheromon für Hunde
+created_at: 2016-08-03 10:36:01.289054400 +02:00
+updated_at: 2018-07-07 20:50:48.785895627 +02:00
+tags:
+- adaptil
+- wissenswertes
+- pheromone
+image: !ruby/object:Blog::Image
+  dirname: kritisch-beleuchtet--adaptil-das-wohlfhlpheromon-fr-hunde/image
+  basename: d90307eec0f0f52e49fe8c4266cdd6077bb41a70.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/kritisch-beleuchtet--adaptil-das-wohlfhlpheromon-fr-hunde.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/kritisch-beleuchtet--adaptil-das-wohlfhlpheromon-fr-hunde"

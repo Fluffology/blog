@@ -1,0 +1,15 @@
+--- !ruby/object:Blog::Post
+title: Die Impulskontrolle — über Fieslichkeiten der Wissenschaft
+created_at: 2016-06-29 13:01:41.512312770 +02:00
+updated_at: 2018-07-07 20:50:48.901007545 +02:00
+tags:
+- wissenswertes
+- alltag
+- impulskontrolle
+image: !ruby/object:Blog::Image
+  dirname: die-impulskontrolle--ber-fieslichkeiten-der-wissenschaft/image
+  basename: 8fd4a4cc1af72d9dc27a326e350fb31b7bcd6654.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/die-impulskontrolle--ber-fieslichkeiten-der-wissenschaft.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/die-impulskontrolle--ber-fieslichkeiten-der-wissenschaft"

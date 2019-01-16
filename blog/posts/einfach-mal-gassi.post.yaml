@@ -1,0 +1,14 @@
+--- !ruby/object:Blog::Post
+title: Einfach mal Gassi
+created_at: 2016-04-09 22:43:28.185818124 +02:00
+updated_at: 2018-07-07 20:50:48.735019895 +02:00
+tags:
+- flauschiges
+- bubbles
+image: !ruby/object:Blog::Image
+  dirname: einfach-mal-gassi/image
+  basename: 77911ff2ef13e21900a98f111fd46072bbba5686.jpg
+template: 
+user_id: LkGfuUp2z0HlAhIWmXK9xBEqwe5j7gFY
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/einfach-mal-gassi.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/einfach-mal-gassi"

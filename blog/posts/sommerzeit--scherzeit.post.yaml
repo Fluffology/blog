@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Sommerzeit — Scherzeit?
+created_at: 2016-05-08 16:51:55.240551173 +02:00
+updated_at: 2018-07-28 12:45:35.338995727 +02:00
+tags:
+- gesundheit
+- wissenswertes
+- scheren
+- fell
+image: !ruby/object:Blog::Image
+  dirname: sommerzeit--scherzeit/image
+  basename: 15d6a25f1a3033de16f0fc5a5dfbf0d0e76ec20c.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/sommerzeit--scherzeit.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/sommerzeit--scherzeit"
+slug: sommerzeit--scherzeit

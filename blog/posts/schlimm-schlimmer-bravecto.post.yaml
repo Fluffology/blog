@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Schlimm, schlimmer, Bravecto
+created_at: 2017-03-30 21:18:05.762801696 +02:00
+updated_at: 2018-07-08 21:52:35.292645940 +02:00
+tags:
+- bravecto
+- wissenswertes
+- zecken
+- zeckenschutz
+image: !ruby/object:Blog::Image
+  dirname: schlimm-schlimmer-bravecto/image
+  basename: e35c6b8d960dc65d79e612c3ffcaf3e22d721809.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/schlimm-schlimmer-bravecto.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/schlimm-schlimmer-bravecto"
+slug: schlimm-schlimmer-bravecto

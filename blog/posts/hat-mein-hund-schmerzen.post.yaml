@@ -1,0 +1,14 @@
+--- !ruby/object:Blog::Post
+title: Hat mein Hund Schmerzen?
+created_at: 2016-09-01 10:20:29.933850238 +02:00
+updated_at: 2018-07-07 20:50:48.800414736 +02:00
+tags:
+- schmerzen
+- gesundheit
+image: !ruby/object:Blog::Image
+  dirname: hat-mein-hund-schmerzen/image
+  basename: 938cf1e6830b18d62fbe03fcfda8d9d7939e525a.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/hat-mein-hund-schmerzen.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/hat-mein-hund-schmerzen"

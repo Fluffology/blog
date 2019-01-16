@@ -1,0 +1,18 @@
+--- !ruby/object:Blog::Post
+title: Der Schrei des Spaniels
+created_at: 2016-04-26 18:42:12.632843818 +02:00
+updated_at: 2018-07-07 20:50:48.720477481 +02:00
+tags:
+- alltag
+- springer
+- spaniel
+- bellen
+- monster
+- flauschiges
+image: !ruby/object:Blog::Image
+  dirname: der-schrei-des-spaniels/image
+  basename: 9b5f77f777b03248c7769a83153f5dcd724c399a.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/der-schrei-des-spaniels.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/der-schrei-des-spaniels"

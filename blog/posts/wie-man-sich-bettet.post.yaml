@@ -1,0 +1,15 @@
+--- !ruby/object:Blog::Post
+title: Wie man sich bettet
+created_at: 2016-04-10 18:37:10.989236952 +02:00
+updated_at: 2018-07-07 20:50:48.871944733 +02:00
+tags:
+- gesundheit
+- wissenswertes
+- schlaf
+image: !ruby/object:Blog::Image
+  dirname: wie-man-sich-bettet/image
+  basename: 7483614a0bd10a3af6065b8891eacebcf66c0143.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/wie-man-sich-bettet.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/wie-man-sich-bettet"

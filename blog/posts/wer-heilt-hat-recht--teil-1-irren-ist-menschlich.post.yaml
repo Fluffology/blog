@@ -1,0 +1,15 @@
+--- !ruby/object:Blog::Post
+title: 'Wer heilt, hat Recht? — Teil 1: Irren ist menschlich'
+created_at: 2016-11-18 20:35:34.923097901 +01:00
+updated_at: 2018-07-07 20:50:48.722220991 +02:00
+tags:
+- wissenswertes
+- wahrnehmung
+- placebo
+image: !ruby/object:Blog::Image
+  dirname: wer-heilt-hat-recht--teil-1-irren-ist-menschlich/image
+  basename: a781ef075deddce29c14a0e6dc9cbf730f776fac.jpeg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/wer-heilt-hat-recht--teil-1-irren-ist-menschlich.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/wer-heilt-hat-recht--teil-1-irren-ist-menschlich"

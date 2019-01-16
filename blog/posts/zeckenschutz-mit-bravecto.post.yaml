@@ -1,0 +1,16 @@
+--- !ruby/object:Blog::Post
+title: Zeckenschutz mit Bravecto
+created_at: 2016-08-27 09:48:36.073154723 +02:00
+updated_at: 2018-07-07 20:50:48.927053557 +02:00
+tags:
+- zecken
+- zeckenschutz
+- bravecto
+- gesundheit
+image: !ruby/object:Blog::Image
+  dirname: zeckenschutz-mit-bravecto/image
+  basename: 43b847dfedf7a7bd05c7350cae3ecfea46af2259.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/zeckenschutz-mit-bravecto.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/zeckenschutz-mit-bravecto"
