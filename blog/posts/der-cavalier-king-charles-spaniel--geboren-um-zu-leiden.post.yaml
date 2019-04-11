@@ -1,0 +1,16 @@
+--- !ruby/object:Blog::Post
+title: Der Cavalier King Charles Spaniel — geboren um zu leiden?
+created_at: 2019-04-11 20:34:19.342584188 +02:00
+updated_at: 2019-04-11 21:20:22.253274524 +02:00
+tags:
+- spaniels
+- gesundheit
+- wissenswertes
+image: !ruby/object:Blog::Image
+  dirname: der-cavalier-king-charles-spaniel--geboren-um-zu-leiden/image
+  basename: 5090092cceacff93e692cb5d4be87288e83eba52.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/der-cavalier-king-charles-spaniel--geboren-um-zu-leiden.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/der-cavalier-king-charles-spaniel--geboren-um-zu-leiden"
+content: 
