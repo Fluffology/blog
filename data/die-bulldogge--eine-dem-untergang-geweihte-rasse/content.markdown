@@ -7,7 +7,7 @@ Die wissenschaftliche Disziplin der Genetik befasst sich mit genau diesen Fragen
 
 Das Gewebe des Körpers ist aus vielen Billionen kleiner Zellen zusammengesetzt. Jede dieser Zellen enthält einen Zellkern. Im Zellkern selbst befindet sich die DNA, eine chemische Verbindung, in der sämtliche Erbinformationen gespeichert sind. Die DNA liegt zusammengepackt in Form von verknüllten fadenartigen Strängen vor. Der Hund besitzt in den Kernen der Körperzellen 39 Paare dieser Stränge, welche Chromosomen genannt werden. 
 
-[flickr: 10136583214 medium] 
+[flickr: 10071497933] 
 
 
 Einzelne Abschnitte der Chromosomenpaare, die Gene, sind verantwortlich für bestimmte Merkmale und Mechanismen des Körpers. Für jedes Merkmal gibt es spezielle Abschnitte auf den Chromosomen. So gibt es Bereiche, die beispielsweise über die Haarfarbe, verschiedene Erbkrankheiten oder die Körpergröße entscheiden. Bei der Fortpflanzung geben Mutter und Vater jeweils zur Hälfte Teilstücke ihrer Chromosomen und somit individuellen Erbinformationen an den Nachwuchs weiter. Welche der elterlichen Erbinformationen das neu entstehende Lebewesen bei der Fortpflanzung nun genau erhält, bleibt zu großen Teilen dem Zufall überlassen. 

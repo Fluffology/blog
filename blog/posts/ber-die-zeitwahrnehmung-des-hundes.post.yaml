@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Über die Zeitwahrnehmung des Hundes
+created_at: 2019-11-12 15:39:44.106964409 +01:00
+updated_at: 2019-11-14 08:08:36.987859908 +01:00
+tags:
+- Zeitgefühl
+- Zeitwahrnehmung
+- Zeit
+- Wissenswertes
+image: !ruby/object:Blog::Image
+  dirname: ber-die-zeitwahrnehmung-des-hundes/image
+  basename: 1606cf39750ca4632aea6563ecfc8326da35c13b.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/ber-die-zeitwahrnehmung-des-hundes.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/ber-die-zeitwahrnehmung-des-hundes"
+slug: ber-die-zeitwahrnehmung-des-hundes

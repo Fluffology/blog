@@ -1,0 +1,18 @@
+--- !ruby/object:Blog::Post
+title: Weniger Stress in der Tierarztpraxis
+created_at: 2019-08-15 12:46:48.496042210 +02:00
+updated_at: 2020-02-10 10:45:43.882007143 +01:00
+tags:
+- tierarzt
+- stress
+- angst
+- wissenswertes
+- gesundheit
+image: !ruby/object:Blog::Image
+  dirname: weniger-stress-in-der-tierarztpraxis/image
+  basename: df0393d4fce8556bd4eff02ef38e9b0bf7a5637f.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/weniger-stress-in-der-tierarztpraxis.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/weniger-stress-in-der-tierarztpraxis"
+slug: weniger-stress-in-der-tierarztpraxis

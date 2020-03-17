@@ -1,0 +1,15 @@
+--- !ruby/object:Blog::Post
+title: Gestresster Mensch, gestresster Hund?
+created_at: 2019-07-22 09:45:59.715559135 +02:00
+updated_at: 2019-07-22 11:01:34.348161329 +02:00
+tags:
+- stress
+- gesundheit
+image: !ruby/object:Blog::Image
+  dirname: gestresster-mensch-gestresster-hund/image
+  basename: 1bfedc3ea159578136f7e60c29a4108777507042.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/gestresster-mensch-gestresster-hund.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/gestresster-mensch-gestresster-hund"
+slug: gestresster-mensch-gestresster-hund

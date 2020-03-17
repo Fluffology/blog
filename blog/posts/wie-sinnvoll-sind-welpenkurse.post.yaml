@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Wie sinnvoll sind Welpenkurse?
+created_at: 2019-10-05 16:36:31.969369769 +02:00
+updated_at: 2019-10-06 12:01:11.944304747 +02:00
+tags:
+- welpenschule
+- welpenkurs
+- welpen
+- wissenswertes
+image: !ruby/object:Blog::Image
+  dirname: wie-sinnvoll-sind-welpenkurse/image
+  basename: 731c98b1b26663968a1648af4b32cd195efb224d.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/wie-sinnvoll-sind-welpenkurse.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/wie-sinnvoll-sind-welpenkurse"
+slug: wie-sinnvoll-sind-welpenkurse
