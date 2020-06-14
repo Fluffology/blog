@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Das Qualzucht Paradoxon
+created_at: 2020-06-13 17:16:41.483743595 +02:00
+updated_at: 2020-06-13 17:27:11.348332391 +02:00
+tags:
+- qualzucht
+- wissenswertes
+- mops
+- bulldogge
+image: !ruby/object:Blog::Image
+  dirname: das-qualzucht-paradoxon/image
+  basename: 42c1fbf34c385590f58bfdaf5e8c01a65aaf5d0b.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/das-qualzucht-paradoxon.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/das-qualzucht-paradoxon"
+content: 

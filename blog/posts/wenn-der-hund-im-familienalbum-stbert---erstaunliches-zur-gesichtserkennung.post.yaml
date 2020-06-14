@@ -1,0 +1,15 @@
+--- !ruby/object:Blog::Post
+title: Wenn der Hund im Familienalbum stöbert - Erstaunliches zur Gesichtserkennung
+created_at: 2020-04-13 16:02:43.287920861 +02:00
+updated_at: 2020-04-13 20:54:49.710179550 +02:00
+tags:
+- wissenswertes
+- wahrnehmung
+image: !ruby/object:Blog::Image
+  dirname: wenn-der-hund-im-familienalbum-stbert---erstaunliches-zur-gesichtserkennung/image
+  basename: 09b7a381d161b1e0a4c2bea7b7e924057362d2ab.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/wenn-der-hund-im-familienalbum-stbert---erstaunliches-zur-gesichtserkennung.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/wenn-der-hund-im-familienalbum-stbert---erstaunliches-zur-gesichtserkennung"
+slug: wenn-der-hund-im-familienalbum-stbert---erstaunliches-zur-gesichtserkennung
