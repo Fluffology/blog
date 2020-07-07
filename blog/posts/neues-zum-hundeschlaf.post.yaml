@@ -1,7 +1,7 @@
 --- !ruby/object:Blog::Post
 title: Neues zum Hundeschlaf
 created_at: 2017-02-11 17:57:04.479492051 +01:00
-updated_at: 2018-07-07 20:50:48.814296777 +02:00
+updated_at: 2020-07-02 18:40:56.183297567 +02:00
 tags:
 - schlaf
 - wissenswertes
@@ -13,3 +13,4 @@ template:
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
 filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/neues-zum-hundeschlaf.post.yaml"
 datadir: "/home/mit/Data/quarters/media/fluffology/data/neues-zum-hundeschlaf"
+slug: neues-zum-hundeschlaf

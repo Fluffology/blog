@@ -37,7 +37,12 @@ Die Art der Aktivität nach der Lernphase hatte einen Einfluss auf das Lernergeb
 Als Ursache für die Unterschiede werden auch hier Zusammenhänge zwischen dem Schlaf und der Gedächtnisbildung vermutet. Die neu gelernten Wörter konnten, während die Hunde in ihrem Zuhause schliefen, im Langzeitgedächtnis gespeichert werden. Der für das Speichern von Informationen notwendige Schlaf muss also nicht unmittelbar der Lerneinheit folgen, sondern kann auch zu einem späteren Zeitpunkt stattfinden. Zwischenzeitliche Spieleinheiten und Spaziergänge scheinen keinen weiteren Einfluss zu haben.  
 
 
-Mehrere Lerneinheiten ohne Schlafpause scheinen hingegen einen negativen Effekt zu haben. Bekommt ein Hund neue Dinge vermittelt, ist eine direkt darauffolgende oder zu einem späteren Zeitpunkt stattfindende Schlafpause vor einer weiteren Lerneinheit wahrscheinlich wichtig. Im Schlaf wird dann das zuvor Gelernte im Langzeitgedächtnis gespeichert. Muss der Vierbeiner zu viel auf einmal ohne zwischenzeitliche Schlafpause lernen, verfestigen sich die Lerninhalte laut den Ergebnissen der Studie schlechter im Langzeitgedächtnis.[^2]
+Mehrere Lerneinheiten ohne Schlafpause scheinen hingegen einen negativen Effekt zu haben. Bekommt ein Hund neue Dinge vermittelt, ist eine direkt darauffolgende oder zu einem späteren Zeitpunkt stattfindende Schlafpause vor einer weiteren Lerneinheit wahrscheinlich wichtig. Im Schlaf wird dann das zuvor Gelernte im Langzeitgedächtnis gespeichert.
+
+## Fazit
+
+
+Muss der Vierbeiner zu viel auf einmal ohne zwischenzeitliche Schlafpausen lernen, verfestigen sich die Lerninhalte laut den Ergebnissen der Studie schlechter im Langzeitgedächtnis.[^2] 
 
 
 <div style="margin-top:30px;color:silver;font-size:.8em">

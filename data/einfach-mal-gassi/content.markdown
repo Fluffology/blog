@@ -1,8 +1,5 @@
-Ich gehe Gassi. Manchmal. Tatsächlich gehe ich lieber raus und nehme
-eine passende Kombination von Hunden mit. Leider ist nicht jeder der
-Hunde, mit denen ich das Glück habe das Bett zu teilen, übermäßig
+Ich gehe Gassi. Manchmal. Tatsächlich gehe ich lieber raus und nehm eine passende Kombination von Hunden mit. Leider ist nicht jeder der Hunde, mit denen ich das Glück habe das Bett zu teilen, übermäßig
 kompatibel was meine Outdoor-Hobbies angeht.
-
 
 ## Hunde sind auch nur schlechte Menschen
 
