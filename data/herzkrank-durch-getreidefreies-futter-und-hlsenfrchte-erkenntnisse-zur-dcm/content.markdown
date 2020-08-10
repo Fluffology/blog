@@ -2,6 +2,7 @@ Seit 2018 sind vermehrt Warnungen vor bestimmten Futtermitteln im Umlauf. Diese 
 
 ## Getreidefreies Hundefutter
 
+
 Die Vielfalt an Sorten von Hundefutter scheint nahezu unendlich zu sein. Vom kaltgepressten Futter mit Barbarie Ente zur Dose mit Biotofu ist so ziemlich jede erdenkbare Futtervariante auf dem Markt. Für viele Hundebesitzer ist die Wahl des richtigen Hundefutters ein hochemotionales Thema. Das ist nachvollziehbar, denn der als Haustier gehaltene Hund kann sich sein Futter nicht aussuchen. Es liegt in der Verantwortung des Hundehalters, ein geeignetes, gut verträgliches und der Gesundheit zuträgliches Futtermittel zu finden.    
 
 Im Verlauf der Jahre hat sich ein gewisser Trend entwickelt, den Hund möglichst fleischlastig und mit wenig bis gar keinem Getreide zu füttern. In Anlehnung an die Ernährung des Wolfes wäre dies die beste und artgerechteste Art, den Hund zu ernähren. Anhänger dieser Theorie füttern oft selbst zubereitete, rohe Mahlzeiten ohne Getreideanteil. Dieses als BARF bekannt gewordene Art des Fütterns ist sehr schnell zu einem beliebten Trend geworden. Fertigfutter-Produzenten haben sich diese Modewelle natürlich zunutze gemacht und “getreidefreies” Trockenfutter auf den Markt gebracht. Mittlerweile gibt es zahlreiche Varianten von getreidefreiem Trockenfutter, welche oft im hochpreisigen Segment angesiedelt sind. Statt Getreide wie Weizen und Mais verwenden die Hersteller oft alternative Stärkequellen wie Süßkartoffeln, Kartoffeln, Linsen, Erbsen oder Topinambur. 

@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Erfolgreiche züchterische Maßnahmen zur Vermeidung der Hüftdysplasie beim Hund
+created_at: 2020-08-09 16:38:59.717337547 +02:00
+updated_at: 2020-08-10 23:21:56.317302573 +02:00
+tags:
+- gesundheit
+- wissenswertes
+- hüftdsyplasie
+- zucht
+image: !ruby/object:Blog::Image
+  dirname: erfolgreiche-zchterische-manahmen-zur-vermeidung-der-hftdysplasie-beim-hund/image
+  basename: 34deb9c1581bfa97163971b1f9d2014a754cddac.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/erfolgreiche-zchterische-manahmen-zur-vermeidung-der-hftdysplasie-beim-hund.post.yaml"
+datadir: "/home/mit/Data/quarters/media/fluffology/data/erfolgreiche-zchterische-manahmen-zur-vermeidung-der-hftdysplasie-beim-hund"
+slug: erfolgreiche-zchterische-manahmen-zur-vermeidung-der-hftdysplasie-beim-hund
