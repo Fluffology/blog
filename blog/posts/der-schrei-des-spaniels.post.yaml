@@ -14,5 +14,5 @@ image: !ruby/object:Blog::Image
   basename: 9b5f77f777b03248c7769a83153f5dcd724c399a.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/der-schrei-des-spaniels.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/der-schrei-des-spaniels"
+filename: blog/posts/der-schrei-des-spaniels.post.yaml
+datadir: data/der-schrei-des-spaniels

@@ -13,5 +13,5 @@ image: !ruby/object:Blog::Image
   basename: 543b0ac783e3eb0483661968789fe55e88aba35b.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/impulskontrolle-teil-2weizen-fr-die-willenskraft.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/impulskontrolle-teil-2weizen-fr-die-willenskraft"
+filename: blog/posts/impulskontrolle-teil-2weizen-fr-die-willenskraft.post.yaml
+datadir: data/impulskontrolle-teil-2weizen-fr-die-willenskraft

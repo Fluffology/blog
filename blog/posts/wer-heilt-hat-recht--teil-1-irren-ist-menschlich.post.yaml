@@ -11,5 +11,5 @@ image: !ruby/object:Blog::Image
   basename: a781ef075deddce29c14a0e6dc9cbf730f776fac.jpeg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/wer-heilt-hat-recht--teil-1-irren-ist-menschlich.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/wer-heilt-hat-recht--teil-1-irren-ist-menschlich"
+filename: blog/posts/wer-heilt-hat-recht--teil-1-irren-ist-menschlich.post.yaml
+datadir: data/wer-heilt-hat-recht--teil-1-irren-ist-menschlich

@@ -12,5 +12,5 @@ image: !ruby/object:Blog::Image
   basename: 359fb19057e2723e0249ee119ded56d2a6e518be.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/wer-heilt-hat-recht--teil-2-der-placebo-effekt.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/wer-heilt-hat-recht--teil-2-der-placebo-effekt"
+filename: blog/posts/wer-heilt-hat-recht--teil-2-der-placebo-effekt.post.yaml
+datadir: data/wer-heilt-hat-recht--teil-2-der-placebo-effekt

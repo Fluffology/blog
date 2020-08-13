@@ -12,6 +12,6 @@ image: !ruby/object:Blog::Image
   basename: b1177f1dc8b2624aa37b559bdc0313265fd983a6.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/zahnpflege-beim-hund.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/zahnpflege-beim-hund"
+filename: blog/posts/zahnpflege-beim-hund.post.yaml
+datadir: data/zahnpflege-beim-hund
 slug: zahnpflege-beim-hund

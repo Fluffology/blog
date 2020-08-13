@@ -11,5 +11,5 @@ image: !ruby/object:Blog::Image
   basename: 38a5d5896f75537d91b76c5c640d664b186137c3.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/der-einfluss-unserer-emotionen-auf-das-hundeverhalten.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/der-einfluss-unserer-emotionen-auf-das-hundeverhalten"
+filename: blog/posts/der-einfluss-unserer-emotionen-auf-das-hundeverhalten.post.yaml
+datadir: data/der-einfluss-unserer-emotionen-auf-das-hundeverhalten

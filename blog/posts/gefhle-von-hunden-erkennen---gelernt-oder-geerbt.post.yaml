@@ -11,6 +11,6 @@ image: !ruby/object:Blog::Image
   basename: b1cd7fb61a04d7793f3f6e9b380ff447e90b7ac1.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/gefhle-von-hunden-erkennen---gelernt-oder-geerbt.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/gefhle-von-hunden-erkennen---gelernt-oder-geerbt"
+filename: blog/posts/gefhle-von-hunden-erkennen---gelernt-oder-geerbt.post.yaml
+datadir: data/gefhle-von-hunden-erkennen---gelernt-oder-geerbt
 slug: gefhle-von-hunden-erkennen---gelernt-oder-geerbt

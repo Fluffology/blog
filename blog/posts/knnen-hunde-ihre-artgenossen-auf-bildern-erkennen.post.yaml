@@ -8,5 +8,5 @@ image: !ruby/object:Blog::Image
   basename: e49630f7387e1dcfffd2467640d31824437c9859.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/knnen-hunde-ihre-artgenossen-auf-bildern-erkennen.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/knnen-hunde-ihre-artgenossen-auf-bildern-erkennen"
+filename: blog/posts/knnen-hunde-ihre-artgenossen-auf-bildern-erkennen.post.yaml
+datadir: data/knnen-hunde-ihre-artgenossen-auf-bildern-erkennen

@@ -12,5 +12,5 @@ image: !ruby/object:Blog::Image
   basename: 43b847dfedf7a7bd05c7350cae3ecfea46af2259.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/zeckenschutz-mit-bravecto.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/zeckenschutz-mit-bravecto"
+filename: blog/posts/zeckenschutz-mit-bravecto.post.yaml
+datadir: data/zeckenschutz-mit-bravecto

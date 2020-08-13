@@ -13,6 +13,6 @@ image: !ruby/object:Blog::Image
   basename: df0393d4fce8556bd4eff02ef38e9b0bf7a5637f.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/weniger-stress-in-der-tierarztpraxis.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/weniger-stress-in-der-tierarztpraxis"
+filename: blog/posts/weniger-stress-in-der-tierarztpraxis.post.yaml
+datadir: data/weniger-stress-in-der-tierarztpraxis
 slug: weniger-stress-in-der-tierarztpraxis

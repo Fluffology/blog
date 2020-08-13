@@ -10,6 +10,6 @@ image: !ruby/object:Blog::Image
   basename: ffeb2d8d5c8f96da04aab5cf9b1fb5a3ac799488.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/zusammenhang-von-persnlichkeit-und-aggressionsverhalten.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/zusammenhang-von-persnlichkeit-und-aggressionsverhalten"
+filename: blog/posts/zusammenhang-von-persnlichkeit-und-aggressionsverhalten.post.yaml
+datadir: data/zusammenhang-von-persnlichkeit-und-aggressionsverhalten
 slug: zusammenhang-von-persnlichkeit-und-aggressionsverhalten

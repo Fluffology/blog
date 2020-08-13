@@ -12,5 +12,5 @@ image: !ruby/object:Blog::Image
   basename: 5f24bfcfe91a4ef947b63317014b538040fc5eb8.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/hftdysplasiemehr-als-nur-schicksal.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/hftdysplasiemehr-als-nur-schicksal"
+filename: blog/posts/hftdysplasiemehr-als-nur-schicksal.post.yaml
+datadir: data/hftdysplasiemehr-als-nur-schicksal

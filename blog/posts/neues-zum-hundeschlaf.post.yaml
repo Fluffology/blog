@@ -11,6 +11,6 @@ image: !ruby/object:Blog::Image
   basename: fe078f866c63a9ecb6c8814d9ab662025dcc0832.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/neues-zum-hundeschlaf.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/neues-zum-hundeschlaf"
+filename: blog/posts/neues-zum-hundeschlaf.post.yaml
+datadir: data/neues-zum-hundeschlaf
 slug: neues-zum-hundeschlaf

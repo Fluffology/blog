@@ -12,6 +12,6 @@ image: !ruby/object:Blog::Image
   basename: fcbe1c5763c790b7fa115cb74a00ba8db1d0886a.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/kritisch-beleuchtet-tryptophan.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/kritisch-beleuchtet-tryptophan"
+filename: blog/posts/kritisch-beleuchtet-tryptophan.post.yaml
+datadir: data/kritisch-beleuchtet-tryptophan
 slug: kritisch-beleuchtet-tryptophan

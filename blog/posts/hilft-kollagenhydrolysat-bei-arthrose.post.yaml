@@ -11,6 +11,6 @@ image: !ruby/object:Blog::Image
   basename: 4d64ce27f87cb7d81ab35e88399a8d4394f61239.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/hilft-kollagenhydrolysat-bei-arthrose.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/hilft-kollagenhydrolysat-bei-arthrose"
+filename: blog/posts/hilft-kollagenhydrolysat-bei-arthrose.post.yaml
+datadir: data/hilft-kollagenhydrolysat-bei-arthrose
 content: 

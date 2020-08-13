@@ -10,6 +10,6 @@ image: !ruby/object:Blog::Image
   basename: 1bfedc3ea159578136f7e60c29a4108777507042.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/gestresster-mensch-gestresster-hund.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/gestresster-mensch-gestresster-hund"
+filename: blog/posts/gestresster-mensch-gestresster-hund.post.yaml
+datadir: data/gestresster-mensch-gestresster-hund
 slug: gestresster-mensch-gestresster-hund

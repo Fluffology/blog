@@ -11,5 +11,5 @@ image: !ruby/object:Blog::Image
   basename: a3f8839446725185da4c8953a5f59253b969e058.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/tierschutzhunde-von-der-besten-seite-zeigen.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/tierschutzhunde-von-der-besten-seite-zeigen"
+filename: blog/posts/tierschutzhunde-von-der-besten-seite-zeigen.post.yaml
+datadir: data/tierschutzhunde-von-der-besten-seite-zeigen

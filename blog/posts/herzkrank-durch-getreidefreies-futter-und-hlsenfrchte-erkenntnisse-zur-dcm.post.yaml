@@ -12,6 +12,6 @@ image: !ruby/object:Blog::Image
   basename: beea9f3cfaed192205f1d30b0bd7270fb6f4e021.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/herzkrank-durch-getreidefreies-futter-und-hlsenfrchte-erkenntnisse-zur-dcm.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/herzkrank-durch-getreidefreies-futter-und-hlsenfrchte-erkenntnisse-zur-dcm"
+filename: blog/posts/herzkrank-durch-getreidefreies-futter-und-hlsenfrchte-erkenntnisse-zur-dcm.post.yaml
+datadir: data/herzkrank-durch-getreidefreies-futter-und-hlsenfrchte-erkenntnisse-zur-dcm
 slug: herzkrank-durch-getreidefreies-futter-und-hlsenfrchte-erkenntnisse-zur-dcm

@@ -12,6 +12,6 @@ image: !ruby/object:Blog::Image
   basename: 3dd5395c35e8fb07974f6e9d1ff57ea6442f2b6e.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/ber-die-cockerwut.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/ber-die-cockerwut"
+filename: blog/posts/ber-die-cockerwut.post.yaml
+datadir: data/ber-die-cockerwut
 slug: ber-die-cockerwut

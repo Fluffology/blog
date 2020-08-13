@@ -12,6 +12,6 @@ image: !ruby/object:Blog::Image
   basename: 42c1fbf34c385590f58bfdaf5e8c01a65aaf5d0b.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/das-qualzucht-paradoxon.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/das-qualzucht-paradoxon"
+filename: blog/posts/das-qualzucht-paradoxon.post.yaml
+datadir: data/das-qualzucht-paradoxon
 content: 

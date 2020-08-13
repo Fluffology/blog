@@ -7,9 +7,9 @@ tags:
 - wahrnehmung
 image: !ruby/object:Blog::Image
   dirname: wenn-der-hund-im-familienalbum-stbert---erstaunliches-zur-gesichtserkennung/image
-  basename: 09b7a381d161b1e0a4c2bea7b7e924057362d2ab.jpg
+  basename: '09b7a381d161b1e0a4c2bea7b7e924057362d2ab.jpg'
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/wenn-der-hund-im-familienalbum-stbert---erstaunliches-zur-gesichtserkennung.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/wenn-der-hund-im-familienalbum-stbert---erstaunliches-zur-gesichtserkennung"
+filename: blog/posts/wenn-der-hund-im-familienalbum-stbert---erstaunliches-zur-gesichtserkennung.post.yaml
+datadir: data/wenn-der-hund-im-familienalbum-stbert---erstaunliches-zur-gesichtserkennung
 slug: wenn-der-hund-im-familienalbum-stbert---erstaunliches-zur-gesichtserkennung

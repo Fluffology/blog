@@ -12,5 +12,5 @@ image: !ruby/object:Blog::Image
   basename: 20aee7a48912f5c2fd3e6c5570db7e0d587bda28.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/knnen-hunde-angst-riechen.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/knnen-hunde-angst-riechen"
+filename: blog/posts/knnen-hunde-angst-riechen.post.yaml
+datadir: data/knnen-hunde-angst-riechen

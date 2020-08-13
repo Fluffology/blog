@@ -11,6 +11,6 @@ image: !ruby/object:Blog::Image
   basename: 921a0295a28ea94f3bbb9ca0bb18a0c99ca325dd.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/atopische-allergie-beim-hund--risikofaktoren-und-die-auswirkungen-auf-das-verhalten.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/atopische-allergie-beim-hund--risikofaktoren-und-die-auswirkungen-auf-das-verhalten"
+filename: blog/posts/atopische-allergie-beim-hund--risikofaktoren-und-die-auswirkungen-auf-das-verhalten.post.yaml
+datadir: data/atopische-allergie-beim-hund--risikofaktoren-und-die-auswirkungen-auf-das-verhalten
 slug: atopische-allergie-beim-hund--risikofaktoren-und-die-auswirkungen-auf-das-verhalten

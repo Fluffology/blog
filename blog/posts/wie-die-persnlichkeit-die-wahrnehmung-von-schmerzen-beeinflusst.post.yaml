@@ -11,6 +11,6 @@ image: !ruby/object:Blog::Image
   basename: 866936aaebf173f6513f4775fd71246fb3f1ef5d.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/wie-die-persnlichkeit-die-wahrnehmung-von-schmerzen-beeinflusst.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/wie-die-persnlichkeit-die-wahrnehmung-von-schmerzen-beeinflusst"
+filename: blog/posts/wie-die-persnlichkeit-die-wahrnehmung-von-schmerzen-beeinflusst.post.yaml
+datadir: data/wie-die-persnlichkeit-die-wahrnehmung-von-schmerzen-beeinflusst
 slug: wie-die-persnlichkeit-die-wahrnehmung-von-schmerzen-beeinflusst

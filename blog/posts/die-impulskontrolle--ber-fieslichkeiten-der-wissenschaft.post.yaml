@@ -11,5 +11,5 @@ image: !ruby/object:Blog::Image
   basename: 8fd4a4cc1af72d9dc27a326e350fb31b7bcd6654.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/die-impulskontrolle--ber-fieslichkeiten-der-wissenschaft.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/die-impulskontrolle--ber-fieslichkeiten-der-wissenschaft"
+filename: blog/posts/die-impulskontrolle--ber-fieslichkeiten-der-wissenschaft.post.yaml
+datadir: data/die-impulskontrolle--ber-fieslichkeiten-der-wissenschaft

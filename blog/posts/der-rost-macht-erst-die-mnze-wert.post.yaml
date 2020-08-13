@@ -10,5 +10,5 @@ image: !ruby/object:Blog::Image
   basename: 784001957cccb63bab89fcf8b849ae1ad9059eb9.jpg
 template: 
 user_id: LkGfuUp2z0HlAhIWmXK9xBEqwe5j7gFY
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/der-rost-macht-erst-die-mnze-wert.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/der-rost-macht-erst-die-mnze-wert"
+filename: blog/posts/der-rost-macht-erst-die-mnze-wert.post.yaml
+datadir: data/der-rost-macht-erst-die-mnze-wert

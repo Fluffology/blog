@@ -10,6 +10,6 @@ image: !ruby/object:Blog::Image
   basename: ec9c88261fc4dea6c5bf6965197262aa8866e089.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/verhaltenstests-fr-tierheimhunde.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/verhaltenstests-fr-tierheimhunde"
+filename: blog/posts/verhaltenstests-fr-tierheimhunde.post.yaml
+datadir: data/verhaltenstests-fr-tierheimhunde
 slug: verhaltenstests-fr-tierheimhunde

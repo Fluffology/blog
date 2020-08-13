@@ -11,5 +11,5 @@ image: !ruby/object:Blog::Image
   basename: d90307eec0f0f52e49fe8c4266cdd6077bb41a70.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/kritisch-beleuchtet--adaptil-das-wohlfhlpheromon-fr-hunde.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/kritisch-beleuchtet--adaptil-das-wohlfhlpheromon-fr-hunde"
+filename: blog/posts/kritisch-beleuchtet--adaptil-das-wohlfhlpheromon-fr-hunde.post.yaml
+datadir: data/kritisch-beleuchtet--adaptil-das-wohlfhlpheromon-fr-hunde

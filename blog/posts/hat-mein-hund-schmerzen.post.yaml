@@ -10,5 +10,5 @@ image: !ruby/object:Blog::Image
   basename: 938cf1e6830b18d62fbe03fcfda8d9d7939e525a.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/hat-mein-hund-schmerzen.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/hat-mein-hund-schmerzen"
+filename: blog/posts/hat-mein-hund-schmerzen.post.yaml
+datadir: data/hat-mein-hund-schmerzen

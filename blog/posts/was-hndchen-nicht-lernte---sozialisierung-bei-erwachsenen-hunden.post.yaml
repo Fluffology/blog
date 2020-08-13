@@ -12,6 +12,6 @@ image: !ruby/object:Blog::Image
   basename: 4adcd6e69b45692bc014d993c3a2565d7f8415cf.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/was-hndchen-nicht-lernte---sozialisierung-bei-erwachsenen-hunden.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/was-hndchen-nicht-lernte---sozialisierung-bei-erwachsenen-hunden"
+filename: blog/posts/was-hndchen-nicht-lernte---sozialisierung-bei-erwachsenen-hunden.post.yaml
+datadir: data/was-hndchen-nicht-lernte---sozialisierung-bei-erwachsenen-hunden
 slug: was-hndchen-nicht-lernte---sozialisierung-bei-erwachsenen-hunden

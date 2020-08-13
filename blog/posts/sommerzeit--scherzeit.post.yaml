@@ -12,6 +12,6 @@ image: !ruby/object:Blog::Image
   basename: 15d6a25f1a3033de16f0fc5a5dfbf0d0e76ec20c.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/sommerzeit--scherzeit.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/sommerzeit--scherzeit"
+filename: blog/posts/sommerzeit--scherzeit.post.yaml
+datadir: data/sommerzeit--scherzeit
 slug: sommerzeit--scherzeit

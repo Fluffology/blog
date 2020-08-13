@@ -12,6 +12,6 @@ image: !ruby/object:Blog::Image
   basename: 73579b3aa3cacaaef8248375fb3dcd4d0c20def9.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/helfen-lachsl--co-wenn-dem-hund-die-knochen-schmerzen.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/helfen-lachsl--co-wenn-dem-hund-die-knochen-schmerzen"
+filename: blog/posts/helfen-lachsl--co-wenn-dem-hund-die-knochen-schmerzen.post.yaml
+datadir: data/helfen-lachsl--co-wenn-dem-hund-die-knochen-schmerzen
 slug: helfen-lachsl--co-wenn-dem-hund-die-knochen-schmerzen

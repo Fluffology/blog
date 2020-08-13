@@ -11,5 +11,5 @@ image: !ruby/object:Blog::Image
   basename: 930075f2017a8ee97fb01bfc7680158038c5add8.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/hormone-im-hundefutter.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/hormone-im-hundefutter"
+filename: blog/posts/hormone-im-hundefutter.post.yaml
+datadir: data/hormone-im-hundefutter

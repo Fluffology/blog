@@ -14,6 +14,6 @@ image: !ruby/object:Blog::Image
   basename: c22f4136fb800d94e965590a7daa03c7e7911e96.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/die-bulldogge--eine-dem-untergang-geweihte-rasse.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/die-bulldogge--eine-dem-untergang-geweihte-rasse"
+filename: blog/posts/die-bulldogge--eine-dem-untergang-geweihte-rasse.post.yaml
+datadir: data/die-bulldogge--eine-dem-untergang-geweihte-rasse
 slug: die-bulldogge--eine-dem-untergang-geweihte-rasse

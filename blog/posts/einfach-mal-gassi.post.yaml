@@ -10,6 +10,6 @@ image: !ruby/object:Blog::Image
   basename: 77911ff2ef13e21900a98f111fd46072bbba5686.jpg
 template: 
 user_id: LkGfuUp2z0HlAhIWmXK9xBEqwe5j7gFY
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/einfach-mal-gassi.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/einfach-mal-gassi"
+filename: blog/posts/einfach-mal-gassi.post.yaml
+datadir: data/einfach-mal-gassi
 slug: einfach-mal-gassi

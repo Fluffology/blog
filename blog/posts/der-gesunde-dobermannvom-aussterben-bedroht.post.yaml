@@ -12,5 +12,5 @@ image: !ruby/object:Blog::Image
   basename: 51fb7cd5dbe0fcdad4ce2b257089acd9c2484c06.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/der-gesunde-dobermannvom-aussterben-bedroht.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/der-gesunde-dobermannvom-aussterben-bedroht"
+filename: blog/posts/der-gesunde-dobermannvom-aussterben-bedroht.post.yaml
+datadir: data/der-gesunde-dobermannvom-aussterben-bedroht

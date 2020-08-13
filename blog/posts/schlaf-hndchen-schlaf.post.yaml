@@ -11,5 +11,5 @@ image: !ruby/object:Blog::Image
   basename: 2378ceae019295dd7f07195f3ad2248481c3e061.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/schlaf-hndchen-schlaf.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/schlaf-hndchen-schlaf"
+filename: blog/posts/schlaf-hndchen-schlaf.post.yaml
+datadir: data/schlaf-hndchen-schlaf

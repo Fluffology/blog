@@ -11,6 +11,6 @@ image: !ruby/object:Blog::Image
   basename: a1d2e5ef337a255020de24140efa84bee06e4848.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/ach-du-dicker-hund-vorurteile-gegenber-bergewicht-in-der-tierarztpraxis.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/ach-du-dicker-hund-vorurteile-gegenber-bergewicht-in-der-tierarztpraxis"
+filename: blog/posts/ach-du-dicker-hund-vorurteile-gegenber-bergewicht-in-der-tierarztpraxis.post.yaml
+datadir: data/ach-du-dicker-hund-vorurteile-gegenber-bergewicht-in-der-tierarztpraxis
 content: 

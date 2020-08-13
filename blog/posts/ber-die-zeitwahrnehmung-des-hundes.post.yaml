@@ -12,6 +12,6 @@ image: !ruby/object:Blog::Image
   basename: 1606cf39750ca4632aea6563ecfc8326da35c13b.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/ber-die-zeitwahrnehmung-des-hundes.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/ber-die-zeitwahrnehmung-des-hundes"
+filename: blog/posts/ber-die-zeitwahrnehmung-des-hundes.post.yaml
+datadir: data/ber-die-zeitwahrnehmung-des-hundes
 slug: ber-die-zeitwahrnehmung-des-hundes

@@ -11,6 +11,6 @@ image: !ruby/object:Blog::Image
   basename: 5090092cceacff93e692cb5d4be87288e83eba52.jpg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: "/home/mit/Data/quarters/media/fluffology/blog/posts/der-cavalier-king-charles-spaniel--geboren-um-zu-leiden.post.yaml"
-datadir: "/home/mit/Data/quarters/media/fluffology/data/der-cavalier-king-charles-spaniel--geboren-um-zu-leiden"
+filename: blog/posts/der-cavalier-king-charles-spaniel--geboren-um-zu-leiden.post.yaml
+datadir: data/der-cavalier-king-charles-spaniel--geboren-um-zu-leiden
 slug: der-cavalier-king-charles-spaniel--geboren-um-zu-leiden
