@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Die Gefahr lauert nicht nur im Auto-Wissenswertes zum Hitzeschlag beim Hund
+created_at: 2020-08-13 16:31:29.297616329 +02:00
+updated_at: 2020-08-13 16:37:59.779486685 +02:00
+tags:
+- hitzeschlag
+- wissenswertes
+- gesundheit
+- sommer
+image: !ruby/object:Blog::Image
+  dirname: die-gefahr-lauert-nicht-nur-im-auto-wissenswertes-zum-hitzeschlag-beim-hund/image
+  basename: 87ba2af16c9be8eb46a1272873c24cff957290ea.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: posts/die-gefahr-lauert-nicht-nur-im-auto-wissenswertes-zum-hitzeschlag-beim-hund.post.yaml
+datadir: data/die-gefahr-lauert-nicht-nur-im-auto-wissenswertes-zum-hitzeschlag-beim-hund
+content: 
