@@ -1,7 +1,7 @@
 --- !ruby/object:Blog::Post
 title: 'Wer heilt, hat Recht? — Teil 3: Der Zufall'
 created_at: 2017-04-09 15:52:47.551235906 +02:00
-updated_at: 2018-07-07 20:50:48.846389486 +02:00
+updated_at: 2021-02-04 21:44:07.629794259 +01:00
 tags:
 - homöopathie
 - wissenswertes
@@ -11,5 +11,6 @@ image: !ruby/object:Blog::Image
   basename: cdccac981b7bf98bd3d611805685df2a499c790a.jpeg
 template: 
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: blog/posts/wer-heilt-hat-recht--teil-3-der-zufall.post.yaml
+filename: posts/wer-heilt-hat-recht--teil-3-der-zufall.post.yaml
 datadir: data/wer-heilt-hat-recht--teil-3-der-zufall
+slug: wer-heilt-hat-recht--teil-3-der-zufall

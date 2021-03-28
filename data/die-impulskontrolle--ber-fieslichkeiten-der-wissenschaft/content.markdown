@@ -83,7 +83,7 @@ Weitere neue, hohe Standards erfüllende Veröffentlichungen zum Thema erhärten
 
 <div style="text-align:center; margin-top:30px">
 
-<img src="http://i.imgur.com/1HdA4K0.jpg?2"/>
+<img src="https://i.imgur.com/1HdA4K0.jpg?2"/>
 
 </div>
 ## Fazit

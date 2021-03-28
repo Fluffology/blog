@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Spielt die Art der Erziehungsmethode eine Rolle für das Wohlbefinden des Hundes?
+created_at: 2021-01-10 15:43:52.168703507 +01:00
+updated_at: 2021-01-10 15:58:08.347365633 +01:00
+tags:
+- wissenswertes
+- gefühle
+- erziehung
+- erziehungsmethoden
+image: !ruby/object:Blog::Image
+  dirname: spielt-die-art-der-erziehungsmethode-eine-rolle-fr-das-wohlbefinden-des-hundes/image
+  basename: be2be2485f87c20a4ec8b50784be7c1c68ff6298.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: posts/spielt-die-art-der-erziehungsmethode-eine-rolle-fr-das-wohlbefinden-des-hundes.post.yaml
+datadir: data/spielt-die-art-der-erziehungsmethode-eine-rolle-fr-das-wohlbefinden-des-hundes
+slug: spielt-die-art-der-erziehungsmethode-eine-rolle-fr-das-wohlbefinden-des-hundes

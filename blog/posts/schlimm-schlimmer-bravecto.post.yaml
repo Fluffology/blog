@@ -1,9 +1,10 @@
 --- !ruby/object:Blog::Post
 title: Schlimm, schlimmer, Bravecto
 created_at: 2017-03-30 21:18:05.762801696 +02:00
-updated_at: 2020-08-13 20:46:32.208793816 +02:00
+updated_at: 2020-11-19 20:37:12.704025911 +01:00
 tags:
 - bravecto
+- gesundheit
 - wissenswertes
 - zecken
 - zeckenschutz

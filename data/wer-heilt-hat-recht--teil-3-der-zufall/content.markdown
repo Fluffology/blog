@@ -1,4 +1,4 @@
-In den [ersten beiden Teilen dieser Blogreihe](http://fluffology.de/post/group/Wer+heilt%2C+hat+Recht%3F) habe ich beschrieben, wie schnell die Hoffnung auf Heilung die eigene Wahrnehmung verändern kann. Eine in der Realität völlig wirkungslose Behandlung kann so mitunter als hilfreich wahrgenommen werden.
+In den ersten beiden Teilen dieser Blogreihe habe ich beschrieben, wie schnell die Hoffnung auf Heilung die eigene Wahrnehmung verändern kann. Eine in der Realität völlig wirkungslose Behandlung kann so mitunter als hilfreich wahrgenommen werden.
 Je nach Art der Beschwerden ist jedoch eine Heilung oder Linderung der Symptome nicht zu übersehen und eindeutig nachweisbar. 
 
 So ein eindeutiger Fall ist beispielsweise ein Hauttumor, welcher nach der Anwendung eines bestimmten Mittels verschwindet. Wenig Diskussions-Spielraum lässt auch ein Hund zu, der nach einer langen Phase von völliger Entlastung einer Gliedmaße wieder auf vier Beinen läuft. Dienen derartige Beobachtungen als Nachweis für die Wirksamkeit einer Therapiemethode? Nein, denn sie verleiten leicht zu Fehlschlüssen.

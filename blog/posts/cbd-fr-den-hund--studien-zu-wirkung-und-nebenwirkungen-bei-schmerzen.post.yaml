@@ -1,0 +1,18 @@
+--- !ruby/object:Blog::Post
+title: CBD für den Hund -Studien zu Wirkung und Nebenwirkungen bei Schmerzen
+created_at: 2021-01-20 16:18:24.152935764 +01:00
+updated_at: 2021-01-20 23:16:02.713178389 +01:00
+tags:
+- wissenswertes
+- gesundheit
+- arthrose
+- schmerzen
+- CBD
+image: !ruby/object:Blog::Image
+  dirname: cbd-fr-den-hund--studien-zu-wirkung-und-nebenwirkungen-bei-schmerzen/image
+  basename: 3f0386ebedd2761b68e2abe0a487227524742d20.jpg
+template: 
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: posts/cbd-fr-den-hund--studien-zu-wirkung-und-nebenwirkungen-bei-schmerzen.post.yaml
+datadir: data/cbd-fr-den-hund--studien-zu-wirkung-und-nebenwirkungen-bei-schmerzen
+slug: cbd-fr-den-hund--studien-zu-wirkung-und-nebenwirkungen-bei-schmerzen
