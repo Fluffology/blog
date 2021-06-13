@@ -1,5 +1,8 @@
 2018 informierte die amerikanische Lebensmittelbehörde FDA erstmals darüber, dass bestimmte Futtersorten möglicherweise die Herzerkrankung DCM auslösen könnten. Im Verdacht stehen dabei getreidefreie Hundefuttersorten und solche mit einem höherem Anteil an Kartoffeln, Süßkartoffeln oder Hülsenfrüchten. Auch Hunderassen, die eigentlich selten an DCM, könnten laut Aussagen durch die entsprechenden Futtermittel erkranken.
 
+
+
+
 Drei Jahre später sind zahlreiche Fragen zu dieser Problematik immer noch nicht beantwortet. Gibt es wirklich eine Häufung der Fälle oder sind die Fallmeldungen eher das Ergebnis einer verstärkten Wachsamkeit gegenüber Herzerkrankungen? Lassen Hundehalter/innen, welche die entsprechenden Futtersorten füttern ihren Hund tendenziell eher kardiologisch untersuchen? Wie viele Fälle gibt es außerhalb der USA? [Welche Bestandteile des Futters sind für die DCM verantwortlich?](https://fluffology.de/post/herzkrank-durch-getreidefreies-futter-und-hlsenfrchte-erkenntnisse-zur-dcm) Erste Studien sind zwar veröffentlicht, tragen aber wenig zur Klärung wesentlicher Fragen bei. Das gilt leider auch für die aktuellsten Veröffentlichungen zur potenziell ernährungsbedingten DCM.
 
 ## Getreidehaltige vs. getreidefreie Fütterung bis zur Erkrankung

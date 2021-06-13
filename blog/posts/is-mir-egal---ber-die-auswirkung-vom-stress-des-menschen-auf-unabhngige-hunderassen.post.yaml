@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: '"Is mir egal" - Über die Auswirkung vom Stress des Menschen auf unabhängige
+  Hunderassen'
+created_at: 2021-05-16 16:01:13.419066020 +02:00
+updated_at: 2021-05-16 17:09:45.537355517 +02:00
+tags:
+- wissenswertes
+- gefühle
+- gefühlsansteckung
+image: !ruby/object:Blog::Image
+  dirname: is-mir-egal---ber-die-auswirkung-vom-stress-des-menschen-auf-unabhngige-hunderassen/image
+  basename: a1d2e5ef337a255020de24140efa84bee06e4848.jpg
+template:
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: posts/is-mir-egal---ber-die-auswirkung-vom-stress-des-menschen-auf-unabhngige-hunderassen.post.yaml
+datadir: data/is-mir-egal---ber-die-auswirkung-vom-stress-des-menschen-auf-unabhngige-hunderassen
+slug: is-mir-egal---ber-die-auswirkung-vom-stress-des-menschen-auf-unabhngige-hunderassen

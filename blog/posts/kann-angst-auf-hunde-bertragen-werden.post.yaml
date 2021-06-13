@@ -1,0 +1,17 @@
+--- !ruby/object:Blog::Post
+title: Kann Angst auf Hunde übertragen werden?
+created_at: 2021-05-01 12:05:47.081101267 +02:00
+updated_at: 2021-05-01 12:08:49.407306169 +02:00
+tags:
+- wissenswertes
+- angst
+- emotionen
+image: !ruby/object:Blog::Image
+  dirname: kann-angst-auf-hunde-bertragen-werden/image
+  basename: 6a6679f93d66e25826a6894ec1bfa2d516e9de11.jpg
+template:
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: posts/kann-angst-auf-hunde-bertragen-werden.post.yaml
+datadir: data/kann-angst-auf-hunde-bertragen-werden
+slug: kann-angst-auf-hunde-bertragen-werden
+content:
