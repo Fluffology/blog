@@ -1,5 +1,6 @@
 Seit März 2021 können unter Arthrose leidende Hunde mit einem neuen Medikament behandelt werden, Librela genannt. Dabei handelt es sich um Antikörper, die gezielt in den Kreislauf der Schmerzwahrnehmung eingreifen. Warum sind neue Arthrosemedikamente für Hunde so wichtig und wie wirkt Librela?
 
+
 ## Arthrose beim Hund
 
 Bis zu 30 Prozent aller Hunde erkranken im Verlauf  ihres Lebens an Arthrose. Dabei handelt es sich um eine bisher unheilbare Krankheit der Gelenke. Auch wenn Arthrose selbst nicht tödlich ist, geht sie oft mit starken Schmerzen und einer deutlich reduzierten Lebensqualität der betroffenen Tiere einher. Daher ist die Krankheit auch eine der häufigsten Gründe für eine Einschläferung. Ursächlich für die Arthrose können beispielsweise Fehlstellungen der Gelenke und Gliedmaßen sowie Übergewicht, fehlende Muskulatur oder Überlastungen sein. Je älter Hunde werden, desto höher ist ihr Risiko, an Arthrose zu erkranken.[^A][^B][^C] 
