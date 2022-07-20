@@ -8,7 +8,7 @@ Dieser beeinflusst nicht nur die Wahrnehmung von Schmerzen. Auch bei Depressione
 
 Mittlerweile ist bekannt, dass weit mehr als bloße Einbildung und Hoffnung hinter dem Placeboeffekt stecken. Viele Personen, die bei vorliegenden Schmerzen eine Scheinbehandlung erhalten, schütten vermehrt körpereigene, schmerzstillende Stoffe aus. Häufig ist auch eine geringere Aktivität in den bei Schmerzen aktiven Hirnregionen zu verzeichnen. Allein der Gang zum Arzt oder das Schlucken einer Pille können derartige körperliche Reaktionen auslösen. Daher sind Placeboeffekte sogar bei Patienten zu beobachten, die wissentlich ein Scheinmedikament einnehmen. [^1]
 
- [flickr: 6889838296]
+ [flickr: 5747870989]
 
 ##Placeboeffekte beim Hund?
 

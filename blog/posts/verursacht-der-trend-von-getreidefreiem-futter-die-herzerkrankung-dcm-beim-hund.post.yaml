@@ -1,0 +1,16 @@
+--- !ruby/object:Blog::Post
+title: Verursacht der Trend von getreidefreiem Futter die Herzerkrankung DCM beim
+  Hund?
+created_at: 2022-04-23 19:26:59.337004606 +02:00
+updated_at: 2022-04-23 20:55:57.765485138 +02:00
+tags:
+- wissenswertes
+- gesundheit
+image: !ruby/object:Blog::Image
+  dirname: verursacht-der-trend-von-getreidefreiem-futter-die-herzerkrankung-dcm-beim-hund/image
+  basename: 7f1172c7e7f25812c4f5b36e23c45652c2c66b6a.jpg
+user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
+filename: posts/verursacht-der-trend-von-getreidefreiem-futter-die-herzerkrankung-dcm-beim-hund.post.yaml
+datadir: data/verursacht-der-trend-von-getreidefreiem-futter-die-herzerkrankung-dcm-beim-hund
+slug: verursacht-der-trend-von-getreidefreiem-futter-die-herzerkrankung-dcm-beim-hund
+url: "/post/verursacht-der-trend-von-getreidefreiem-futter-die-herzerkrankung-dcm-beim-hund"

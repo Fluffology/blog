@@ -3,6 +3,7 @@ Seit März 2021 können unter Arthrose leidende Hunde mit einem neuen Medikament
 
 ## Arthrose beim Hund
 
+
 Bis zu 30 Prozent aller Hunde erkranken im Verlauf  ihres Lebens an Arthrose. Dabei handelt es sich um eine bisher unheilbare Krankheit der Gelenke. Auch wenn Arthrose selbst nicht tödlich ist, geht sie oft mit starken Schmerzen und einer deutlich reduzierten Lebensqualität der betroffenen Tiere einher. Daher ist die Krankheit auch eine der häufigsten Gründe für eine Einschläferung. Ursächlich für die Arthrose können beispielsweise Fehlstellungen der Gelenke und Gliedmaßen sowie Übergewicht, fehlende Muskulatur oder Überlastungen sein. Je älter Hunde werden, desto höher ist ihr Risiko, an Arthrose zu erkranken.[^A][^B][^C] 
 
 Bei der Therapie der Arthrose steht die Schmerzkontrolle an erster Stelle. Ohne Behandlung nimmt die Schmerzbelastung deutlich zu und kann zu dauerhaften, den ganzen Körper betreffenden Missempfindungen und Schmerzen führen.
@@ -16,6 +17,12 @@ Die Schmerzen werden bei Arthrose noch durch einen zusätzlichen Mechanismus ver
 [flickr: 31683633448]
 
 ## Der Nerve Growth Factor und Schmerzen durch Arthrose
+
+
+
+[quickfact: arthrose]
+
+
 
 Der sogenannte Nervenwachstumsfaktor ist Stoff aus verschiedenen Eiweißbausteinen, der besonders bei der Entwicklung im Mutterleib eine wichtige Rolle spielt. Dabei ist er ist mitverantwortlich für die Entwicklung, das Wachstum und die Verschaltung der Nervenzellen im heranwachsenden Körper.[^J]
 
@@ -39,7 +46,7 @@ Auch für den Hund wurde ein Biopharmazeutikum entwickelt, welches direkt den Kr
 Ein weiteres Problem: Seniorenhunde müssen aufgrund mehrerer Krankheitsbilder oft zeitgleich verschiedene Medikamente nehmen. Manche der Krankheiten erfordern beispielsweise eine Therapie mit Cortison, welches langfristig nicht zeitgleich mit den Entzündungshemmern gegeben werden kann. 
 Der neu entwickelte Arzneistoff Librela hemmt die Bindung vom Nervenwachstumsfaktor an die Rezeptoren von schmerzleitenden Zellen. Das ermöglicht eine deutliche Verringerung der Schmerzen ohne die üblichen Nebenwirkungen der Entzündungshemmer. Außerdem kann Librela mit einer viel größeren Palette an Medikamenten kombiniert werden.
 
-[flickr: 44441261752]
+[flickr: 5747870989]
 
 ## Studien mit Librela bei Hunden
 

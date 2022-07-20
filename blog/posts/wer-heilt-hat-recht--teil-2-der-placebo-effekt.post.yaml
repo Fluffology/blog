@@ -1,7 +1,7 @@
 --- !ruby/object:Blog::Post
 title: 'Wer heilt, hat Recht? — Teil 2: Der Placebo-Effekt'
 created_at: 2017-01-20 02:06:52.547605812 +01:00
-updated_at: 2018-07-07 20:50:48.688041762 +02:00
+updated_at: 2022-05-16 23:09:19.283400932 +02:00
 tags:
 - placebo
 - gesundheit
@@ -9,8 +9,9 @@ tags:
 - arthrose
 image: !ruby/object:Blog::Image
   dirname: wer-heilt-hat-recht--teil-2-der-placebo-effekt/image
-  basename: 359fb19057e2723e0249ee119ded56d2a6e518be.jpg
-template: 
+  basename: c82c8c4b7ca34ae1ae5363a11bd15a3ad4322efb.jpg
+template:
 user_id: t7GWpfHcYsFqrXP4wUOvI5hKRMnCS3dA
-filename: blog/posts/wer-heilt-hat-recht--teil-2-der-placebo-effekt.post.yaml
+filename: posts/wer-heilt-hat-recht--teil-2-der-placebo-effekt.post.yaml
 datadir: data/wer-heilt-hat-recht--teil-2-der-placebo-effekt
+slug: wer-heilt-hat-recht--teil-2-der-placebo-effekt
